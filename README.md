@@ -8,7 +8,7 @@ The project builds a deep learning model capable of classifying images of flower
 
 ## Project Structure
 
-.
+
 ├── train.py              # Script to train the image classifier  
 ├── predict.py            # Script to make predictions using the trained model  
 ├── model/                # Saved model directory  
